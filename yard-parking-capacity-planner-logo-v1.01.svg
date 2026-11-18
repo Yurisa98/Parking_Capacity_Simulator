@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="112" viewBox="0 0 620 112" role="img" aria-labelledby="title desc">
+  <title id="title">Yard Parking Capacity Planner logo</title>
+  <desc id="desc">A technical yard boundary, two angled parking bays and an amber CBU route beside the product name.</desc>
+  <rect width="620" height="112" fill="#11182e"/>
+  <g transform="translate(22 20)">
+    <rect x="0" y="0" width="72" height="72" fill="none" stroke="#8290aa" stroke-width="2"/>
+    <path d="M10 52h52" fill="none" stroke="#d1a24a" stroke-width="8"/>
+    <path d="M16 46l12-28h13L29 46zm24 0l12-28h13L53 46z" fill="#dce8ff" stroke="#8db3ed" stroke-width="2"/>
+    <path d="M54 57h12l-6 7z" fill="#d1a24a"/>
+  </g>
+  <g transform="translate(116 28)" font-family="Inter, Segoe UI, Arial, sans-serif">
+    <text x="0" y="25" fill="#f7f9fc" font-size="25" font-weight="700" letter-spacing=".2">Yard Parking Capacity Planner</text>
+    <text x="0" y="51" fill="#aeb6cb" font-size="13" font-weight="500">Internal CBU yard geometry and capacity</text>
+    <text x="430" y="51" fill="#d1a24a" font-size="12" font-weight="700">V1.01</text>
+  </g>
+</svg>
